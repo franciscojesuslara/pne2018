@@ -1,2 +1,2 @@
-# pne2018
-Programming in Network Environments
+# Programming in Network Environments
+This repostery includes all the code related to this course.
