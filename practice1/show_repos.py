@@ -13,4 +13,4 @@ repos = json.loads(repos_raw)
 print("the length of the repos is" , len(repos))
 while x<30:
     print("The owner of the first repository is", repos[x]['full_name'])
-    x+=13
+    x+=1
